@@ -1,0 +1,14 @@
+1) 인사말 
+안녕하세요 박성규입니다.
+
+
+2) 경력
+2023.04 - Current : Taking a course for Linux system & kernel hosted by Grepp.
+2023.01 - 2023.03 : Software Engineer | Python3, Nest.js, Next.js, AWS Lambda
+2020.08 - 2023.01 : Technical Trainer & Consultant | AWS Computing service, AWS Networking service, etc.
+2020.03- 2020.06 : Python Software Engineer | Python3, pytest, pydoc, etc.
+2013.03 - 2020.02 : Major in Computer science & engineering
+
+
+3) 설명 
+시스템 엔지니어로 커리어를 전환하려고 합니다. 감사합니다. 
